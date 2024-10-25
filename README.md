@@ -1,2 +1,2 @@
-# emboldlabE
+# emboldlab
 EmboldLab Website
